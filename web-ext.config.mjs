@@ -4,6 +4,7 @@ export const ignoreFiles = [
   'README.md',
   'web-ext.config.mjs',
   'version.mjs',
+  'renovate.json',
 ];
 
 export const build = {
