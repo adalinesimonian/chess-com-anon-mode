@@ -1,6 +1,6 @@
 {
   "name": "chess-com-anon-mode",
-  "packageManager": "yarn@4.3.1",
+  "packageManager": "yarn@4.5.1",
   "scripts": {
     "format": "prettier --write .",
     "package": "web-ext build -c web-ext.config.mjs",
