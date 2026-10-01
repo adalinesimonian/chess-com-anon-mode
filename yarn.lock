@@ -252,10 +252,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/firefox-webext-browser@npm:^120.0.4":
-  version: 120.0.5
-  resolution: "@types/firefox-webext-browser@npm:120.0.5"
-  checksum: 10c0/77338ed752351f74d72142c6399e6f5bb3a34acb5d3f559c0e9179fb271272de6ce514827afe6d99c798a42109bbc64d442cf8d999cf486e668dd933722fcb73
+"@types/firefox-webext-browser@npm:^143.0.0":
+  version: 143.0.1
+  resolution: "@types/firefox-webext-browser@npm:143.0.1"
+  checksum: 10c0/ba6091a568a926c44b07c6e99318a3cb66ef30f68429655ff08c04bf4cab1eb639f445931f33d5720afbf4ab501607d8a3cb264db0b437a7c6b83a7ffee83d7e
   languageName: node
   linkType: hard
 
@@ -626,7 +626,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "chess-com-anon-mode@workspace:."
   dependencies:
-    "@types/firefox-webext-browser": "npm:^120.0.4"
+    "@types/firefox-webext-browser": "npm:^143.0.0"
     prettier: "npm:^3.3.3"
     typescript: "npm:^5.5.3"
     web-ext: "npm:^10.0.0"
